@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "d:\\MovieBookingSystem\\MovieBookingSystem\\lib\\javafx-sdk-17.0.13\\lib\\javafx.controls.jar",
+        "d:\\MovieBookingSystem\\MovieBookingSystem\\lib\\javafx-sdk-17.0.13\\lib\\javafx.web.jar",
+        "d:\\MovieBookingSystem\\MovieBookingSystem\\lib\\javafx-sdk-17.0.13\\lib\\javafx.base.jar",
+        "d:\\MovieBookingSystem\\MovieBookingSystem\\lib\\javafx-sdk-17.0.13\\lib\\javafx.graphics.jar",
+        "d:\\MovieBookingSystem\\MovieBookingSystem\\lib\\javafx-sdk-17.0.13\\lib\\javafx.media.jar",
+        "d:\\MovieBookingSystem\\MovieBookingSystem\\lib\\javafx-sdk-17.0.13\\lib\\javafx.swing.jar",
+        "d:\\MovieBookingSystem\\MovieBookingSystem\\lib\\javafx-sdk-17.0.13\\lib\\javafx-swt.jar",
+        "d:\\MovieBookingSystem\\MovieBookingSystem\\lib\\javafx-sdk-17.0.13\\lib\\javafx.fxml.jar"
+    ],
+    "java.format.settings.url": ".vscode/java-formatter.xml"
+}
