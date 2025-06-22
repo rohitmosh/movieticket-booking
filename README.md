@@ -35,14 +35,20 @@ This is a **Movie Ticket Booking System** developed using **Object-Oriented Prog
 
 ```
 MovieTicketBookingSystem/
-│
-├── Main.java               # Entry point: handles user interaction and flow control
-├── User.java               # Handles user login/registration details
-├── Movie.java              # Movie model with title, showtimes, etc.
-├── Booking.java            # Booking logic including seat assignment
-├── BookingThread.java      # Implements multithreaded booking simulation
-├── CustomException.java    # Custom exception class for validation and errors
-└── JavaSynopsis.pdf        # Project synopsis with flow diagram and tech overview
+src/
+├── Main.java              # Main application class with JavaFX UI
+├── User.java              # User model with authentication logic
+├── Movie.java             # Movie model with poster management
+├── Booking.java           # Booking data model
+├── BookingThread.java     # Multithreading implementation for booking processing
+├── CustomException.java   # Custom exception handling
+└── resources/
+    ├── images/           # Movie poster images
+    │   ├── inception.jpg
+    │   ├── oppenheimer.jpg
+    │   └── interstellar.jpg
+    └── styles/
+        └── styles.css    # Application styling
 ```
 
 ---
